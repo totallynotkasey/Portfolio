@@ -54,11 +54,5 @@ function pizzaOrderSubmit(document){
 }
 
 function goHome(){
-	window.location.href="http://sabre.southhills.edu/~ntorretti";
-}
-
-function addNums(form2){
-	var num1=eval(form2.txtFirstNum.value);
-	var num2=eval(form2.txtSecNum.value);
-	alert(num1+num2);
+	window.location.href="https://totallynotkasey.github.io/Portfolio/";
 }
